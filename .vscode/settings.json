@@ -1,0 +1,50 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "v_RP9hgldGPZvAJCmyY_P",
+            "name": "DEILSON  MENDES",
+            "driver": "mysql",
+            "connectionType": "host",
+            "host": "159.65.251.223",
+            "port": 3306,
+            "ssl": false,
+            "username": "aluno",
+            "password": "",
+            "savePassword": "secretStorage",
+            "readOnly": false,
+            "postConnectionSqlType": "inline",
+            "connectionTimeout": 30,
+            "pinnedConnectionTimeout": "0",
+            "driverOptions": {
+                "retrievePublickey": true,
+                "disableMultiStatements": false
+            },
+            "introspection": {
+                "progressive": false
+            }
+        },
+        {
+            "connectionId": "6-7LHHvbi4GdOiqKHb3z-",
+            "name": "DEILSON  MENDES",
+            "driver": "mysql",
+            "connectionType": "host",
+            "host": "159.65.251.223",
+            "port": 3306,
+            "ssl": false,
+            "username": "aluno",
+            "password": "",
+            "savePassword": "secretStorage",
+            "readOnly": false,
+            "postConnectionSqlType": "inline",
+            "connectionTimeout": 30,
+            "pinnedConnectionTimeout": "0",
+            "driverOptions": {
+                "retrievePublickey": true,
+                "disableMultiStatements": false
+            },
+            "introspection": {
+                "progressive": false
+            }
+        }
+    ]
+}
