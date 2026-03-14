@@ -1,4 +1,4 @@
-# MYSQL 
+![Image](https://github.com/user-attachments/assets/75085a1c-ed5d-49df-87a8-b33193808f9c)
 # Projeto de Banco de Dados MySQL 🗄️
 
 Este repositório contém uma coleção de scripts SQL, modelagens de dados e exercícios práticos desenvolvidos para consolidar conhecimentos em bancos de dados relacionais utilizando o **MySQL**.
