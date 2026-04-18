@@ -1,8 +1,10 @@
-const {route} = require('express');
-const {listUsers} = require('../controllers/user');
 
-const router = route();
+const { Router } = require('express');
+const {ListtUser} = Router("../controllers/user");
 
-router.get('/users', listUsers);
+const route = Router();
 
-module.exports = router;
+route.get("/users", ListtUser);
+
+module.exports = route; 
+
