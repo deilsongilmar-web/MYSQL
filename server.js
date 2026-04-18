@@ -12,6 +12,42 @@ app.get('/home', (req, res) => {
     res.send("Home Page");
 });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 app.get('/me', (req, res) => {
     const {nome, bairro} = req.query;
     res.send(`Meu nome é ${nome}, Moro em ${bairro}`);
